@@ -345,7 +345,7 @@ li.commenting .comment-num {
 	list-style-type: decimal;
 }
 .hentry .post-body blockquote {
-	font: italic 18px/1.6em 'Lora', georgia, serif;
+	font: italic 18px 'Lora', georgia, serif;
 	color: #aaa;
 	border-right: 5px solid #92CC47;
 	padding-right: 10px;
