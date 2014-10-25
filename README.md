@@ -1,4 +1,4 @@
-nandaa-blogger-template
+Blogger Template #1
 =======================
 
 Blogger Template for my website - [nandaa.com](http://profnandaa.blogspot.com)
